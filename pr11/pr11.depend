@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615121383 source:d:\Флешка\2 Курс\ООП\pr11\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ctime>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608203710 source:d:\Флешка\2 Курс\ООП\pr9\main.cpp
+	<iostream>
+	<fstream>
+
